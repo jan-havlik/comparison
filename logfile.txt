@@ -1,0 +1,797 @@
+2021-10-09 00:39:29 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = / GET: 4 ms, 0 Kb
+2021-10-09 00:50:15 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /favicon.ico GET: 5 ms, 71 Kb
+2021-10-09 00:57:51 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = / GET: 4 ms, 0 Kb
+2021-10-09 01:30:56 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 112.120.254.137,10.255.0.2, request = / GET: 5 ms, 0 Kb
+2021-10-09 01:30:57 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 112.120.254.137,10.255.0.2, request = /favicon.ico GET: 4 ms, 71 Kb
+2021-10-09 02:00:56 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = / GET: 5 ms, 0 Kb
+2021-10-09 02:00:56 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /css/app.a901b079.css GET: 2 ms, 5 Kb
+2021-10-09 02:00:56 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /css/chunk-vendors.a4f0ebe8.css GET: 7 ms, 239 Kb
+2021-10-09 02:00:56 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /js/app.fba78ed0.js GET: 6 ms, 187 Kb
+2021-10-09 02:00:56 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /js/chunk-vendors.a813cfb2.js GET: 18 ms, 1178 Kb
+2021-10-09 02:00:57 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/management/info GET: 2 ms, 0 Kb
+2021-10-09 02:00:57 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /favicon.ico GET: 3 ms, 71 Kb
+2021-10-09 02:00:57 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/jwt POST: 89 ms, 0 Kb
+2021-10-09 02:00:57 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /fonts/fontawesome-webfont.af7ae505.woff2 GET: 4 ms, 75 Kb
+2021-10-09 02:02:21 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = / GET: 4 ms, 0 Kb
+2021-10-09 02:02:32 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /webfig/ GET: 60 ms, error 404, 0 Kb
+2021-10-09 02:33:37 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = / GET: 4 ms, 0 Kb
+2021-10-09 03:20:53 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = / GET: 4 ms, 0 Kb
+2021-10-09 03:20:54 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = / GET: 3 ms, 0 Kb
+2021-10-09 04:20:48 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /GponForm/diag_Form?style/ POST: 61 ms, error 404, 0 Kb
+2021-10-09 04:45:12 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /wordpress/ GET: 61 ms, error 404, 0 Kb
+2021-10-09 04:57:20 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = / GET: 4 ms, 0 Kb
+2021-10-09 04:57:20 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = / GET: 4 ms, 0 Kb
+2021-10-09 06:11:10 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /remote/fgt_lang?lang=/../../../..//////////dev/ GET: 62 ms, error 404, 0 Kb
+2021-10-09 07:36:13 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /.env GET: 62 ms, error 404, 0 Kb
+2021-10-09 07:38:58 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = / GET: 4 ms, 0 Kb
+2021-10-09 08:06:08 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/jwt POST: 111 ms, 0 Kb
+2021-10-09 08:06:09 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?order=ASC&requestForAll=true&pageSize=ALL GET: 486 ms, 1 Kb
+2021-10-09 08:06:09 [http-nio-80-exec-5] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.analyse.g4hunter.G4Hunter[846526af-3303-4ce1-8a91-3e6e205dc33f].
+2021-10-09 08:06:09 [ForkJoinPool-1-worker-96] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.analyse.g4hunter.G4Hunter[846526af-3303-4ce1-8a91-3e6e205dc33f] for cz.mendelu.dnaAnalyser.analyse.g4hunter.G4Hunter[846526af-3303-4ce1-8a91-3e6e205dc33f].
+2021-10-09 08:06:09 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/g4hunter POST: 32 ms, 0 Kb
+2021-10-09 08:06:09 [ForkJoinPool-1-worker-96] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/846526af-3303-4ce1-8a91-3e6e205dc33f;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 08:06:10 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/g4hunter?order=ASC&pageSize=ALL&requestForAll=true GET: 74 ms, 0 Kb
+2021-10-09 08:06:10 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/g4hunter?order=ASC&pageSize=ALL&requestForAll=true GET: 48 ms, 0 Kb
+2021-10-09 08:06:10 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/g4hunter/846526af-3303-4ce1-8a91-3e6e205dc33f GET: 8 ms, 0 Kb
+2021-10-09 08:06:11 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/g4hunter?order=ASC&pageSize=ALL&requestForAll=true GET: 51 ms, 0 Kb
+2021-10-09 08:06:11 [ForkJoinPool-1-worker-96] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.analyse.g4hunter.G4Hunter[846526af-3303-4ce1-8a91-3e6e205dc33f].
+2021-10-09 08:06:11 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/g4hunter/846526af-3303-4ce1-8a91-3e6e205dc33f DELETE: 19 ms, 0 Kb
+2021-10-09 08:06:12 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/jwt POST: 70 ms, 0 Kb
+2021-10-09 08:06:12 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/g4killer POST: 11 ms, 0 Kb
+2021-10-09 08:06:12 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/jwt POST: 70 ms, 0 Kb
+2021-10-09 08:06:13 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/p53predictor/tool POST: 4 ms, 0 Kb
+2021-10-09 08:06:13 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/jwt POST: 43 ms, 0 Kb
+2021-10-09 08:06:14 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?order=ASC&requestForAll=true&pageSize=ALL GET: 426 ms, 1 Kb
+2021-10-09 08:06:15 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?order=ASC&requestForAll=true&pageSize=ALL GET: 410 ms, 1 Kb
+2021-10-09 08:06:15 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/b63820f2-c03c-44f0-89ec-defe3004f635 GET: 8 ms, 0 Kb
+2021-10-09 08:06:16 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?order=ASC&requestForAll=true&pageSize=ALL GET: 434 ms, 1 Kb
+2021-10-09 08:06:16 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/9a6d8639-672f-47e2-9da8-99e4b0c63700/data?len=20&pos=10 GET: 7 ms, 0 Kb
+2021-10-09 08:06:17 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?order=ASC&requestForAll=true&pageSize=ALL GET: 419 ms, 1 Kb
+2021-10-09 08:06:18 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?order=ASC&requestForAll=true&pageSize=ALL GET: 408 ms, 1 Kb
+2021-10-09 08:06:19 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/b63820f2-c03c-44f0-89ec-defe3004f635 DELETE: 116 ms, 0 Kb
+2021-10-09 08:06:19 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/9715e69a-a474-4771-97e9-41d658aec11e DELETE: 53 ms, 0 Kb
+2021-10-09 08:06:19 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/0e10cd69-f0a8-495c-b845-ce9745ecfe41 DELETE: 53 ms, 0 Kb
+2021-10-09 08:06:20 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/251e6640-f4df-46a5-a9c0-48f7b1151b64 DELETE: 59 ms, 0 Kb
+2021-10-09 08:06:20 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/c490401a-0ec7-426a-ae1a-67aad27c35d5 DELETE: 58 ms, 0 Kb
+2021-10-09 08:06:21 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/ba43e66b-5606-40b6-ad3e-4bb5398000d7 DELETE: 21 ms, 0 Kb
+2021-10-09 08:06:21 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/9a6d8639-672f-47e2-9da8-99e4b0c63700 DELETE: 31 ms, 0 Kb
+2021-10-09 08:06:21 [http-nio-80-exec-2] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.sequence.Sequence[baf08fc0-682f-4a62-be6b-7eee111a1718].
+2021-10-09 08:06:21 [ForkJoinPool-1-worker-96] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.sequence.Sequence[baf08fc0-682f-4a62-be6b-7eee111a1718] for cz.mendelu.dnaAnalyser.sequence.Sequence[baf08fc0-682f-4a62-be6b-7eee111a1718].
+2021-10-09 08:06:21 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/import/text POST: 85 ms, 0 Kb
+2021-10-09 08:06:21 [ForkJoinPool-1-worker-96] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.sequence.Sequence[baf08fc0-682f-4a62-be6b-7eee111a1718].
+2021-10-09 08:06:22 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/import/ncbi POST: 573 ms, 0 Kb
+2021-10-09 08:06:23 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/jwt POST: 31 ms, 0 Kb
+2021-10-09 08:06:23 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/jwt PUT: 81 ms, 0 Kb
+2021-10-09 08:13:33 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = / GET: 4 ms, 0 Kb
+2021-10-09 08:13:35 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = / GET: 3 ms, 0 Kb
+2021-10-09 10:06:44 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = / GET: 1 ms, 0 Kb
+2021-10-09 10:48:53 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /robots.txt GET: 63 ms, error 404, 0 Kb
+2021-10-09 10:49:02 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = / GET: 3 ms, 0 Kb
+2021-10-09 11:26:35 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = / GET: 3 ms, 0 Kb
+2021-10-09 11:26:35 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /css/app.a901b079.css GET: 2 ms, 5 Kb
+2021-10-09 11:26:35 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /css/chunk-vendors.a4f0ebe8.css GET: 6 ms, 239 Kb
+2021-10-09 11:26:35 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /js/app.fba78ed0.js GET: 5 ms, 187 Kb
+2021-10-09 11:26:35 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /js/chunk-vendors.a813cfb2.js GET: 20 ms, 1178 Kb
+2021-10-09 11:26:35 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/management/info GET: 3 ms, 0 Kb
+2021-10-09 11:26:36 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/jwt POST: 71 ms, 0 Kb
+2021-10-09 11:26:36 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /favicon.ico GET: 2 ms, 71 Kb
+2021-10-09 11:26:36 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /fonts/fontawesome-webfont.af7ae505.woff2 GET: 4 ms, 75 Kb
+2021-10-09 11:26:40 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/jwt PUT: 15 ms, error 200, 0 Kb
+2021-10-09 11:26:48 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/jwt PUT: 10 ms, error 200, 0 Kb
+2021-10-09 11:26:51 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/jwt PUT: 10 ms, error 200, 0 Kb
+2021-10-09 11:26:55 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/jwt PUT: 86 ms, 0 Kb
+2021-10-09 11:26:58 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 479 ms, 2 Kb
+2021-10-09 11:27:15 [http-nio-80-exec-10] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.sequence.Sequence[01232535-bbde-4d9d-8bb3-97a4c4769337].
+2021-10-09 11:27:15 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /static/loader.png GET: 62 ms, error 404, 0 Kb
+2021-10-09 11:27:15 [ForkJoinPool-1-worker-82] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.sequence.Sequence[01232535-bbde-4d9d-8bb3-97a4c4769337] for cz.mendelu.dnaAnalyser.sequence.Sequence[01232535-bbde-4d9d-8bb3-97a4c4769337].
+2021-10-09 11:27:15 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/import/file POST: 91 ms, 0 Kb
+2021-10-09 11:27:15 [ForkJoinPool-1-worker-82] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.sequence.Sequence[01232535-bbde-4d9d-8bb3-97a4c4769337].
+2021-10-09 11:27:15 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/01232535-bbde-4d9d-8bb3-97a4c4769337 GET: 6 ms, 0 Kb
+2021-10-09 11:27:16 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 871 ms, 3 Kb
+2021-10-09 11:27:16 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 887 ms, 3 Kb
+2021-10-09 11:27:21 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=5&pageNumber=0 GET: 842 ms, 1 Kb
+2021-10-09 11:27:27 [http-nio-80-exec-7] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[e32897d7-4456-45eb-98f1-5d2dc7bd16c1].
+2021-10-09 11:27:27 [ForkJoinPool-1-worker-82] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[e32897d7-4456-45eb-98f1-5d2dc7bd16c1] for cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[e32897d7-4456-45eb-98f1-5d2dc7bd16c1].
+2021-10-09 11:27:27 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr POST: 82 ms, 0 Kb
+2021-10-09 11:27:27 [ForkJoinPool-1-worker-82] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/e32897d7-4456-45eb-98f1-5d2dc7bd16c1;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 11:27:28 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/e32897d7-4456-45eb-98f1-5d2dc7bd16c1/analysis GET: 11 ms, 0 Kb
+2021-10-09 11:27:30 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/e32897d7-4456-45eb-98f1-5d2dc7bd16c1/analysis GET: 6 ms, 0 Kb
+2021-10-09 11:27:30 [ForkJoinPool-1-worker-82] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[e32897d7-4456-45eb-98f1-5d2dc7bd16c1].
+2021-10-09 11:27:33 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/e32897d7-4456-45eb-98f1-5d2dc7bd16c1/analysis GET: 9 ms, 0 Kb
+2021-10-09 11:27:33 [http-nio-80-exec-3] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/e32897d7-4456-45eb-98f1-5d2dc7bd16c1;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 11:27:33 [http-nio-80-exec-10] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/e32897d7-4456-45eb-98f1-5d2dc7bd16c1;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 11:27:33 [http-nio-80-exec-2] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/e32897d7-4456-45eb-98f1-5d2dc7bd16c1;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 11:27:33 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/01232535-bbde-4d9d-8bb3-97a4c4769337 GET: 10 ms, 0 Kb
+2021-10-09 11:27:33 [http-nio-80-exec-9] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/e32897d7-4456-45eb-98f1-5d2dc7bd16c1;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 11:27:34 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/e32897d7-4456-45eb-98f1-5d2dc7bd16c1/total/length/m2 GET: 499 ms, 0 Kb
+2021-10-09 11:27:34 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/e32897d7-4456-45eb-98f1-5d2dc7bd16c1/rloops?sort=position&order=ASC&pageSize=10&pageNumber=0 GET: 508 ms, 4 Kb
+2021-10-09 11:27:34 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/e32897d7-4456-45eb-98f1-5d2dc7bd16c1/average/length GET: 338 ms, 0 Kb
+2021-10-09 11:27:34 [http-nio-80-exec-7] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/e32897d7-4456-45eb-98f1-5d2dc7bd16c1;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 11:27:34 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/01232535-bbde-4d9d-8bb3-97a4c4769337/nucleic-counts PATCH: 63 ms, 0 Kb
+2021-10-09 11:27:34 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/e32897d7-4456-45eb-98f1-5d2dc7bd16c1/total/length/m1 GET: 936 ms, 0 Kb
+2021-10-09 11:27:35 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/e32897d7-4456-45eb-98f1-5d2dc7bd16c1/heatmap?segments=80&from=0&to=9994 GET: 1155 ms, 2 Kb
+2021-10-09 11:27:44 [http-nio-80-exec-8] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/e32897d7-4456-45eb-98f1-5d2dc7bd16c1;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 11:27:45 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/e32897d7-4456-45eb-98f1-5d2dc7bd16c1/rloopr.bedgraph GET: 903 ms, 0 Kb
+2021-10-09 11:53:04 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = / GET: 3 ms, 0 Kb
+2021-10-09 11:53:04 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /css/app.a901b079.css GET: 2 ms, 5 Kb
+2021-10-09 11:53:04 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /css/chunk-vendors.a4f0ebe8.css GET: 7 ms, 239 Kb
+2021-10-09 11:53:04 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /js/app.fba78ed0.js GET: 6 ms, 187 Kb
+2021-10-09 11:53:04 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /js/chunk-vendors.a813cfb2.js GET: 20 ms, 1178 Kb
+2021-10-09 11:53:05 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/management/info GET: 2 ms, 0 Kb
+2021-10-09 11:53:05 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /fonts/fontawesome-webfont.af7ae505.woff2 GET: 4 ms, 75 Kb
+2021-10-09 11:53:10 [http-nio-80-exec-6] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@1633a6b3 (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+2021-10-09 11:53:11 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=5&pageNumber=0 GET: 892 ms, 1 Kb
+2021-10-09 11:53:13 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 850 ms, 3 Kb
+2021-10-09 11:53:28 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = / GET: 3 ms, 0 Kb
+2021-10-09 11:53:28 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /css/app.a901b079.css GET: 3 ms, 5 Kb
+2021-10-09 11:53:28 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /js/app.fba78ed0.js GET: 6 ms, 187 Kb
+2021-10-09 11:53:28 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /css/chunk-vendors.a4f0ebe8.css GET: 7 ms, 239 Kb
+2021-10-09 11:53:28 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /js/chunk-vendors.a813cfb2.js GET: 17 ms, 1178 Kb
+2021-10-09 11:53:29 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/management/info GET: 3 ms, 0 Kb
+2021-10-09 11:53:29 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /fonts/fontawesome-webfont.af7ae505.woff2 GET: 3 ms, 75 Kb
+2021-10-09 11:53:32 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 853 ms, 3 Kb
+2021-10-09 11:54:42 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /static/loader.png GET: 60 ms, error 404, 0 Kb
+2021-10-09 11:54:42 [http-nio-80-exec-2] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.sequence.Sequence[33380b7a-7705-4f65-916b-7e6ecd0cbf20].
+2021-10-09 11:54:42 [ForkJoinPool-1-worker-97] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.sequence.Sequence[33380b7a-7705-4f65-916b-7e6ecd0cbf20] for cz.mendelu.dnaAnalyser.sequence.Sequence[33380b7a-7705-4f65-916b-7e6ecd0cbf20].
+2021-10-09 11:54:42 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/import/file POST: 135 ms, 0 Kb
+2021-10-09 11:54:42 [ForkJoinPool-1-worker-97] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.sequence.Sequence[33380b7a-7705-4f65-916b-7e6ecd0cbf20].
+2021-10-09 11:54:42 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/33380b7a-7705-4f65-916b-7e6ecd0cbf20 GET: 8 ms, 0 Kb
+2021-10-09 11:54:43 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 1092 ms, 3 Kb
+2021-10-09 11:54:43 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 1045 ms, 3 Kb
+2021-10-09 11:54:45 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=5&pageNumber=0 GET: 849 ms, 1 Kb
+2021-10-09 11:54:47 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=5&pageNumber=0 GET: 842 ms, 1 Kb
+2021-10-09 11:54:50 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=5&pageNumber=1 GET: 848 ms, 2 Kb
+2021-10-09 11:54:53 [http-nio-80-exec-6] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[d5194783-f902-4282-9579-5cb895706be2].
+2021-10-09 11:54:53 [ForkJoinPool-1-worker-97] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[d5194783-f902-4282-9579-5cb895706be2] for cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[d5194783-f902-4282-9579-5cb895706be2].
+2021-10-09 11:54:53 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr POST: 138 ms, 0 Kb
+2021-10-09 11:54:53 [ForkJoinPool-1-worker-97] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/d5194783-f902-4282-9579-5cb895706be2;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 11:54:53 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/d5194783-f902-4282-9579-5cb895706be2/analysis GET: 10 ms, 0 Kb
+2021-10-09 11:54:55 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/d5194783-f902-4282-9579-5cb895706be2/analysis GET: 7 ms, 0 Kb
+2021-10-09 11:54:56 [ForkJoinPool-1-worker-97] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[d5194783-f902-4282-9579-5cb895706be2].
+2021-10-09 11:54:58 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/d5194783-f902-4282-9579-5cb895706be2/analysis GET: 9 ms, 0 Kb
+2021-10-09 11:54:58 [http-nio-80-exec-4] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/d5194783-f902-4282-9579-5cb895706be2;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 11:54:58 [http-nio-80-exec-9] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/d5194783-f902-4282-9579-5cb895706be2;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 11:54:58 [http-nio-80-exec-7] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/d5194783-f902-4282-9579-5cb895706be2;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 11:54:58 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/33380b7a-7705-4f65-916b-7e6ecd0cbf20 GET: 8 ms, 0 Kb
+2021-10-09 11:54:58 [http-nio-80-exec-8] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/d5194783-f902-4282-9579-5cb895706be2;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 11:54:59 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/d5194783-f902-4282-9579-5cb895706be2/rloops?sort=position&order=ASC&pageSize=10&pageNumber=0 GET: 481 ms, 4 Kb
+2021-10-09 11:54:59 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/d5194783-f902-4282-9579-5cb895706be2/average/length GET: 300 ms, 0 Kb
+2021-10-09 11:54:59 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/d5194783-f902-4282-9579-5cb895706be2/total/length/m2 GET: 472 ms, 0 Kb
+2021-10-09 11:54:59 [http-nio-80-exec-6] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/d5194783-f902-4282-9579-5cb895706be2;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 11:54:59 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/33380b7a-7705-4f65-916b-7e6ecd0cbf20/nucleic-counts PATCH: 94 ms, 0 Kb
+2021-10-09 11:54:59 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/d5194783-f902-4282-9579-5cb895706be2/total/length/m1 GET: 961 ms, 0 Kb
+2021-10-09 11:55:00 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/d5194783-f902-4282-9579-5cb895706be2/heatmap?segments=80&from=0&to=9994 GET: 1123 ms, 2 Kb
+2021-10-09 11:55:05 [http-nio-80-exec-1] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/d5194783-f902-4282-9579-5cb895706be2;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 11:55:06 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/d5194783-f902-4282-9579-5cb895706be2/rloopr.bedgraph GET: 935 ms, 0 Kb
+2021-10-09 12:05:57 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/jwt POST: 132 ms, 0 Kb
+2021-10-09 12:05:58 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?order=ASC&requestForAll=true&pageSize=ALL GET: 432 ms, 1 Kb
+2021-10-09 12:05:58 [http-nio-80-exec-5] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.analyse.g4hunter.G4Hunter[24e50f65-d60d-44b0-a22e-0304e2cca933].
+2021-10-09 12:05:58 [ForkJoinPool-1-worker-36] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.analyse.g4hunter.G4Hunter[24e50f65-d60d-44b0-a22e-0304e2cca933] for cz.mendelu.dnaAnalyser.analyse.g4hunter.G4Hunter[24e50f65-d60d-44b0-a22e-0304e2cca933].
+2021-10-09 12:05:58 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/g4hunter POST: 46 ms, 0 Kb
+2021-10-09 12:05:58 [ForkJoinPool-1-worker-36] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/24e50f65-d60d-44b0-a22e-0304e2cca933;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:05:58 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/g4hunter?order=ASC&pageSize=ALL&requestForAll=true GET: 36 ms, 0 Kb
+2021-10-09 12:05:59 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/g4hunter?order=ASC&pageSize=ALL&requestForAll=true GET: 77 ms, 0 Kb
+2021-10-09 12:05:59 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/g4hunter/24e50f65-d60d-44b0-a22e-0304e2cca933 GET: 7 ms, 0 Kb
+2021-10-09 12:05:59 [ForkJoinPool-1-worker-36] INFO  c.m.d.a.g4hunter.G4HunterService - Aggregate Quadruplex 24e50f65-d60d-44b0-a22e-0304e2cca933, aggregate: 100, analyse 86% of founded Quadruplex
+2021-10-09 12:06:00 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/g4hunter?order=ASC&pageSize=ALL&requestForAll=true GET: 52 ms, 0 Kb
+2021-10-09 12:06:00 [ForkJoinPool-1-worker-36] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.analyse.g4hunter.G4Hunter[24e50f65-d60d-44b0-a22e-0304e2cca933].
+2021-10-09 12:06:00 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/g4hunter/24e50f65-d60d-44b0-a22e-0304e2cca933 DELETE: 19 ms, 0 Kb
+2021-10-09 12:06:00 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/jwt POST: 42 ms, 0 Kb
+2021-10-09 12:06:01 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/g4killer POST: 11 ms, 0 Kb
+2021-10-09 12:06:01 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/jwt POST: 68 ms, 0 Kb
+2021-10-09 12:06:02 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/p53predictor/tool POST: 5 ms, 0 Kb
+2021-10-09 12:06:02 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/jwt POST: 78 ms, 0 Kb
+2021-10-09 12:06:03 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?order=ASC&requestForAll=true&pageSize=ALL GET: 494 ms, 1 Kb
+2021-10-09 12:06:04 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?order=ASC&requestForAll=true&pageSize=ALL GET: 429 ms, 1 Kb
+2021-10-09 12:06:04 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/d565c130-925d-4709-ab81-1a464d3d2478 GET: 8 ms, 0 Kb
+2021-10-09 12:06:05 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?order=ASC&requestForAll=true&pageSize=ALL GET: 441 ms, 1 Kb
+2021-10-09 12:06:05 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/effdf4a9-dff5-4ee2-860b-5f7d611a2c41/data?len=20&pos=10 GET: 8 ms, 0 Kb
+2021-10-09 12:06:06 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?order=ASC&requestForAll=true&pageSize=ALL GET: 474 ms, 1 Kb
+2021-10-09 12:06:07 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?order=ASC&requestForAll=true&pageSize=ALL GET: 424 ms, 1 Kb
+2021-10-09 12:06:07 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/937845f6-4715-42df-8651-46e1fc5097dd DELETE: 59 ms, 0 Kb
+2021-10-09 12:06:08 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/e513fc62-1949-4ad1-949d-a3078f556beb DELETE: 14 ms, 0 Kb
+2021-10-09 12:06:08 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/41b2268c-c0fb-4778-9bbb-0d953b6f8be9 DELETE: 59 ms, 0 Kb
+2021-10-09 12:06:09 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/445b074a-ddf6-4d64-88ae-5e84c2045803 DELETE: 61 ms, 0 Kb
+2021-10-09 12:06:09 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/d565c130-925d-4709-ab81-1a464d3d2478 DELETE: 58 ms, 0 Kb
+2021-10-09 12:06:09 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/6fb31f00-0d84-4e79-ade8-52aa9a6c15ae DELETE: 63 ms, 0 Kb
+2021-10-09 12:06:10 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/effdf4a9-dff5-4ee2-860b-5f7d611a2c41 DELETE: 61 ms, 0 Kb
+2021-10-09 12:06:10 [http-nio-80-exec-3] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.sequence.Sequence[b7fc8d39-8a33-4379-87c6-22c2e9b958c6].
+2021-10-09 12:06:10 [ForkJoinPool-1-worker-36] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.sequence.Sequence[b7fc8d39-8a33-4379-87c6-22c2e9b958c6] for cz.mendelu.dnaAnalyser.sequence.Sequence[b7fc8d39-8a33-4379-87c6-22c2e9b958c6].
+2021-10-09 12:06:10 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/import/text POST: 47 ms, 0 Kb
+2021-10-09 12:06:10 [ForkJoinPool-1-worker-36] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.sequence.Sequence[b7fc8d39-8a33-4379-87c6-22c2e9b958c6].
+2021-10-09 12:06:11 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/import/ncbi POST: 537 ms, 0 Kb
+2021-10-09 12:06:12 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/jwt POST: 77 ms, 0 Kb
+2021-10-09 12:06:12 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/jwt PUT: 86 ms, 0 Kb
+2021-10-09 12:07:33 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 858 ms, 3 Kb
+2021-10-09 12:07:42 [http-nio-80-exec-7] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.sequence.Sequence[368a6491-ff72-4148-a92d-e9dc0664a4ff].
+2021-10-09 12:07:42 [ForkJoinPool-1-worker-31] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.sequence.Sequence[368a6491-ff72-4148-a92d-e9dc0664a4ff] for cz.mendelu.dnaAnalyser.sequence.Sequence[368a6491-ff72-4148-a92d-e9dc0664a4ff].
+2021-10-09 12:07:42 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/import/file POST: 104 ms, 0 Kb
+2021-10-09 12:07:42 [ForkJoinPool-1-worker-31] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.sequence.Sequence[368a6491-ff72-4148-a92d-e9dc0664a4ff].
+2021-10-09 12:07:42 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/368a6491-ff72-4148-a92d-e9dc0664a4ff GET: 9 ms, 0 Kb
+2021-10-09 12:07:43 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 856 ms, 3 Kb
+2021-10-09 12:07:43 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 860 ms, 3 Kb
+2021-10-09 12:07:46 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=5&pageNumber=0 GET: 842 ms, 1 Kb
+2021-10-09 12:07:49 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=5&pageNumber=1 GET: 831 ms, 2 Kb
+2021-10-09 12:08:00 [http-nio-80-exec-4] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[ef1cb1fb-f84b-472b-9e30-b2f78ad0b3f6].
+2021-10-09 12:08:00 [ForkJoinPool-1-worker-31] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[ef1cb1fb-f84b-472b-9e30-b2f78ad0b3f6] for cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[ef1cb1fb-f84b-472b-9e30-b2f78ad0b3f6].
+2021-10-09 12:08:00 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr POST: 80 ms, 0 Kb
+2021-10-09 12:08:00 [ForkJoinPool-1-worker-31] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/ef1cb1fb-f84b-472b-9e30-b2f78ad0b3f6;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:08:01 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/ef1cb1fb-f84b-472b-9e30-b2f78ad0b3f6/analysis GET: 9 ms, 0 Kb
+2021-10-09 12:08:03 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/ef1cb1fb-f84b-472b-9e30-b2f78ad0b3f6/analysis GET: 5 ms, 0 Kb
+2021-10-09 12:08:03 [ForkJoinPool-1-worker-31] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[ef1cb1fb-f84b-472b-9e30-b2f78ad0b3f6].
+2021-10-09 12:08:06 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/ef1cb1fb-f84b-472b-9e30-b2f78ad0b3f6/analysis GET: 8 ms, 0 Kb
+2021-10-09 12:08:06 [http-nio-80-exec-7] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/ef1cb1fb-f84b-472b-9e30-b2f78ad0b3f6;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:08:06 [http-nio-80-exec-1] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/ef1cb1fb-f84b-472b-9e30-b2f78ad0b3f6;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:08:06 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/368a6491-ff72-4148-a92d-e9dc0664a4ff GET: 9 ms, 0 Kb
+2021-10-09 12:08:06 [http-nio-80-exec-2] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/ef1cb1fb-f84b-472b-9e30-b2f78ad0b3f6;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:08:06 [http-nio-80-exec-3] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/ef1cb1fb-f84b-472b-9e30-b2f78ad0b3f6;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:08:06 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/ef1cb1fb-f84b-472b-9e30-b2f78ad0b3f6/rloops?sort=position&order=ASC&pageSize=10&pageNumber=0 GET: 495 ms, 6 Kb
+2021-10-09 12:08:06 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/ef1cb1fb-f84b-472b-9e30-b2f78ad0b3f6/average/length GET: 367 ms, 0 Kb
+2021-10-09 12:08:06 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/ef1cb1fb-f84b-472b-9e30-b2f78ad0b3f6/total/length/m1 GET: 490 ms, 0 Kb
+2021-10-09 12:08:06 [http-nio-80-exec-10] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/ef1cb1fb-f84b-472b-9e30-b2f78ad0b3f6;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:08:06 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/368a6491-ff72-4148-a92d-e9dc0664a4ff/nucleic-counts PATCH: 54 ms, 0 Kb
+2021-10-09 12:08:07 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/ef1cb1fb-f84b-472b-9e30-b2f78ad0b3f6/total/length/m2 GET: 894 ms, 0 Kb
+2021-10-09 12:08:08 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/ef1cb1fb-f84b-472b-9e30-b2f78ad0b3f6/heatmap?segments=80&from=0&to=22765 GET: 1205 ms, 2 Kb
+2021-10-09 12:08:08 [http-nio-80-exec-8] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[dc419ed6-b076-4f14-aede-b6dd0dbfdc17].
+2021-10-09 12:08:08 [ForkJoinPool-1-worker-23] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[dc419ed6-b076-4f14-aede-b6dd0dbfdc17] for cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[dc419ed6-b076-4f14-aede-b6dd0dbfdc17].
+2021-10-09 12:08:08 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr POST: 83 ms, 0 Kb
+2021-10-09 12:08:08 [ForkJoinPool-1-worker-23] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/dc419ed6-b076-4f14-aede-b6dd0dbfdc17;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:08:08 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/dc419ed6-b076-4f14-aede-b6dd0dbfdc17/analysis GET: 9 ms, 0 Kb
+2021-10-09 12:08:10 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/dc419ed6-b076-4f14-aede-b6dd0dbfdc17/analysis GET: 5 ms, 0 Kb
+2021-10-09 12:08:11 [ForkJoinPool-1-worker-23] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[dc419ed6-b076-4f14-aede-b6dd0dbfdc17].
+2021-10-09 12:08:13 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/dc419ed6-b076-4f14-aede-b6dd0dbfdc17/analysis GET: 4 ms, 0 Kb
+2021-10-09 12:08:13 [http-nio-80-exec-7] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/dc419ed6-b076-4f14-aede-b6dd0dbfdc17;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:08:13 [http-nio-80-exec-1] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/dc419ed6-b076-4f14-aede-b6dd0dbfdc17;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:08:13 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/459f8793-6606-4d9e-b564-9c73229f6811 GET: 4 ms, 0 Kb
+2021-10-09 12:08:13 [http-nio-80-exec-3] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/dc419ed6-b076-4f14-aede-b6dd0dbfdc17;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:08:13 [http-nio-80-exec-2] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/dc419ed6-b076-4f14-aede-b6dd0dbfdc17;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:08:14 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/dc419ed6-b076-4f14-aede-b6dd0dbfdc17/rloops?sort=position&order=ASC&pageSize=10&pageNumber=0 GET: 457 ms, 7 Kb
+2021-10-09 12:08:14 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/dc419ed6-b076-4f14-aede-b6dd0dbfdc17/total/length/m2 GET: 453 ms, 0 Kb
+2021-10-09 12:08:14 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/dc419ed6-b076-4f14-aede-b6dd0dbfdc17/average/length GET: 402 ms, 0 Kb
+2021-10-09 12:08:14 [http-nio-80-exec-8] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/dc419ed6-b076-4f14-aede-b6dd0dbfdc17;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:08:14 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/459f8793-6606-4d9e-b564-9c73229f6811/nucleic-counts PATCH: 77 ms, 0 Kb
+2021-10-09 12:08:14 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/dc419ed6-b076-4f14-aede-b6dd0dbfdc17/total/length/m1 GET: 936 ms, 0 Kb
+2021-10-09 12:08:15 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/dc419ed6-b076-4f14-aede-b6dd0dbfdc17/heatmap?segments=80&from=0&to=26766 GET: 1172 ms, 2 Kb
+2021-10-09 12:08:19 [http-nio-80-exec-9] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/dc419ed6-b076-4f14-aede-b6dd0dbfdc17;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:08:20 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/dc419ed6-b076-4f14-aede-b6dd0dbfdc17/rloopr.bedgraph GET: 845 ms, 0 Kb
+2021-10-09 12:10:57 [http-nio-80-exec-1] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[e6bb3ad3-08c5-4471-991f-d6955b5049cb].
+2021-10-09 12:10:57 [ForkJoinPool-1-worker-82] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[e6bb3ad3-08c5-4471-991f-d6955b5049cb] for cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[e6bb3ad3-08c5-4471-991f-d6955b5049cb].
+2021-10-09 12:10:57 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr POST: 103 ms, 0 Kb
+2021-10-09 12:10:57 [ForkJoinPool-1-worker-82] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/e6bb3ad3-08c5-4471-991f-d6955b5049cb;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:10:57 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/e6bb3ad3-08c5-4471-991f-d6955b5049cb/analysis GET: 9 ms, 0 Kb
+2021-10-09 12:10:59 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/e6bb3ad3-08c5-4471-991f-d6955b5049cb/analysis GET: 6 ms, 0 Kb
+2021-10-09 12:11:00 [ForkJoinPool-1-worker-82] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[e6bb3ad3-08c5-4471-991f-d6955b5049cb].
+2021-10-09 12:11:03 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/e6bb3ad3-08c5-4471-991f-d6955b5049cb/analysis GET: 7 ms, 0 Kb
+2021-10-09 12:11:03 [http-nio-80-exec-8] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/e6bb3ad3-08c5-4471-991f-d6955b5049cb;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:11:03 [http-nio-80-exec-9] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/e6bb3ad3-08c5-4471-991f-d6955b5049cb;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:11:03 [http-nio-80-exec-5] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/e6bb3ad3-08c5-4471-991f-d6955b5049cb;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:11:03 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/368a6491-ff72-4148-a92d-e9dc0664a4ff GET: 9 ms, 0 Kb
+2021-10-09 12:11:03 [http-nio-80-exec-4] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/e6bb3ad3-08c5-4471-991f-d6955b5049cb;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:11:03 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/e6bb3ad3-08c5-4471-991f-d6955b5049cb/rloops?sort=position&order=ASC&pageSize=10&pageNumber=0 GET: 435 ms, 6 Kb
+2021-10-09 12:11:03 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/e6bb3ad3-08c5-4471-991f-d6955b5049cb/total/length/m1 GET: 362 ms, 0 Kb
+2021-10-09 12:11:03 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/e6bb3ad3-08c5-4471-991f-d6955b5049cb/average/length GET: 273 ms, 0 Kb
+2021-10-09 12:11:03 [http-nio-80-exec-1] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/e6bb3ad3-08c5-4471-991f-d6955b5049cb;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:11:03 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/368a6491-ff72-4148-a92d-e9dc0664a4ff/nucleic-counts PATCH: 67 ms, 0 Kb
+2021-10-09 12:11:04 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/e6bb3ad3-08c5-4471-991f-d6955b5049cb/total/length/m2 GET: 808 ms, 0 Kb
+2021-10-09 12:11:04 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/e6bb3ad3-08c5-4471-991f-d6955b5049cb/heatmap?segments=80&from=0&to=22765 GET: 1168 ms, 2 Kb
+2021-10-09 12:11:08 [http-nio-80-exec-2] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/ef1cb1fb-f84b-472b-9e30-b2f78ad0b3f6;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:11:09 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/ef1cb1fb-f84b-472b-9e30-b2f78ad0b3f6/rloopr.bedgraph GET: 836 ms, error 200, 0 Kb
+2021-10-09 12:11:09 [http-nio-80-exec-2] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NumberFormatException: For input string: "65213011.txt"] with root cause
+java.lang.NumberFormatException: For input string: "65213011.txt"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at cz.mendelu.dnaAnalyser.exporter.ExporterService.transformResultSetToBedGraph(ExporterService.java:144)
+	at cz.mendelu.dnaAnalyser.exporter.ExporterService.exportData(ExporterService.java:79)
+	at cz.mendelu.dnaAnalyser.exporter.ExporterService$$FastClassBySpringCGLIB$$e9fd0264.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:769)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at net.bull.javamelody.MonitoringSpringInterceptor.invoke(MonitoringSpringInterceptor.java:76)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:689)
+	at cz.mendelu.dnaAnalyser.exporter.ExporterService$$EnhancerBySpringCGLIB$$d819c2ff.exportData(<generated>)
+	at cz.mendelu.dnaAnalyser.analyse.rloopr.RlooprController.getBedgraph(RlooprController.java:244)
+	at cz.mendelu.dnaAnalyser.analyse.rloopr.RlooprController$$FastClassBySpringCGLIB$$27b9fa72.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:769)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.framework.adapter.AfterReturningAdviceInterceptor.invoke(AfterReturningAdviceInterceptor.java:55)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at net.bull.javamelody.MonitoringSpringInterceptor.invoke(MonitoringSpringInterceptor.java:76)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:747)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:689)
+	at cz.mendelu.dnaAnalyser.analyse.rloopr.RlooprController$$EnhancerBySpringCGLIB$$31224558.getBedgraph(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at cz.mendelu.dnaAnalyser.jwt.JwtAuthenticationTokenFilter.doFilter(JwtAuthenticationTokenFilter.java:55)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at net.bull.javamelody.MonitoringFilter.doFilter(MonitoringFilter.java:239)
+	at net.bull.javamelody.MonitoringFilter.doFilter(MonitoringFilter.java:215)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:320)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:126)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:90)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:118)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:137)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:111)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:158)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at cz.mendelu.dnaAnalyser.jwt.JwtAuthenticationTokenFilter.doFilter(JwtAuthenticationTokenFilter.java:55)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:92)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:77)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:109)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:367)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1639)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-10-09 12:11:12 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = / GET: 3 ms, 0 Kb
+2021-10-09 12:11:13 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /css/app.a901b079.css GET: 3 ms, 5 Kb
+2021-10-09 12:11:13 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /css/chunk-vendors.a4f0ebe8.css GET: 3 ms, 239 Kb
+2021-10-09 12:11:13 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /js/app.fba78ed0.js GET: 3 ms, 187 Kb
+2021-10-09 12:11:13 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /js/chunk-vendors.a813cfb2.js GET: 20 ms, 1178 Kb
+2021-10-09 12:11:13 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/management/info GET: 2 ms, 0 Kb
+2021-10-09 12:11:14 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=5&pageNumber=0 GET: 848 ms, 1 Kb
+2021-10-09 12:11:18 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 853 ms, 3 Kb
+2021-10-09 12:11:28 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /static/loader.png GET: 61 ms, error 404, 0 Kb
+2021-10-09 12:11:28 [http-nio-80-exec-1] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.sequence.Sequence[43f614ec-ceff-4fa4-a094-5569c8f86ba5].
+2021-10-09 12:11:28 [ForkJoinPool-1-worker-56] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.sequence.Sequence[43f614ec-ceff-4fa4-a094-5569c8f86ba5] for cz.mendelu.dnaAnalyser.sequence.Sequence[43f614ec-ceff-4fa4-a094-5569c8f86ba5].
+2021-10-09 12:11:28 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/import/file POST: 130 ms, 0 Kb
+2021-10-09 12:11:28 [ForkJoinPool-1-worker-56] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.sequence.Sequence[43f614ec-ceff-4fa4-a094-5569c8f86ba5].
+2021-10-09 12:11:28 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/43f614ec-ceff-4fa4-a094-5569c8f86ba5 GET: 7 ms, 0 Kb
+2021-10-09 12:11:29 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 948 ms, 3 Kb
+2021-10-09 12:11:29 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 902 ms, 3 Kb
+2021-10-09 12:11:31 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=5&pageNumber=0 GET: 821 ms, 1 Kb
+2021-10-09 12:11:34 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=5&pageNumber=1 GET: 849 ms, 2 Kb
+2021-10-09 12:11:38 [http-nio-80-exec-4] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[0f5b4686-c3a1-466d-8cc3-a30ad4b8950e].
+2021-10-09 12:11:38 [ForkJoinPool-1-worker-56] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[0f5b4686-c3a1-466d-8cc3-a30ad4b8950e] for cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[0f5b4686-c3a1-466d-8cc3-a30ad4b8950e].
+2021-10-09 12:11:38 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr POST: 92 ms, 0 Kb
+2021-10-09 12:11:38 [ForkJoinPool-1-worker-56] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/0f5b4686-c3a1-466d-8cc3-a30ad4b8950e;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:11:38 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/0f5b4686-c3a1-466d-8cc3-a30ad4b8950e/analysis GET: 9 ms, 0 Kb
+2021-10-09 12:11:40 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/0f5b4686-c3a1-466d-8cc3-a30ad4b8950e/analysis GET: 5 ms, 0 Kb
+2021-10-09 12:11:40 [ForkJoinPool-1-worker-56] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[0f5b4686-c3a1-466d-8cc3-a30ad4b8950e].
+2021-10-09 12:11:43 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/0f5b4686-c3a1-466d-8cc3-a30ad4b8950e/analysis GET: 9 ms, 0 Kb
+2021-10-09 12:11:43 [http-nio-80-exec-1] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/0f5b4686-c3a1-466d-8cc3-a30ad4b8950e;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:11:43 [http-nio-80-exec-3] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/0f5b4686-c3a1-466d-8cc3-a30ad4b8950e;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:11:43 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/43f614ec-ceff-4fa4-a094-5569c8f86ba5 GET: 7 ms, 0 Kb
+2021-10-09 12:11:43 [http-nio-80-exec-10] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/0f5b4686-c3a1-466d-8cc3-a30ad4b8950e;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:11:43 [http-nio-80-exec-9] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/0f5b4686-c3a1-466d-8cc3-a30ad4b8950e;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:11:43 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/0f5b4686-c3a1-466d-8cc3-a30ad4b8950e/rloops?sort=position&order=ASC&pageSize=10&pageNumber=0 GET: 431 ms, 6 Kb
+2021-10-09 12:11:43 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/0f5b4686-c3a1-466d-8cc3-a30ad4b8950e/average/length GET: 377 ms, 0 Kb
+2021-10-09 12:11:43 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/0f5b4686-c3a1-466d-8cc3-a30ad4b8950e/total/length/m1 GET: 426 ms, 0 Kb
+2021-10-09 12:11:44 [http-nio-80-exec-6] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/0f5b4686-c3a1-466d-8cc3-a30ad4b8950e;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:11:44 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/43f614ec-ceff-4fa4-a094-5569c8f86ba5/nucleic-counts PATCH: 63 ms, 0 Kb
+2021-10-09 12:11:44 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/0f5b4686-c3a1-466d-8cc3-a30ad4b8950e/total/length/m2 GET: 903 ms, 0 Kb
+2021-10-09 12:11:45 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/0f5b4686-c3a1-466d-8cc3-a30ad4b8950e/heatmap?segments=80&from=0&to=22765 GET: 1349 ms, 2 Kb
+2021-10-09 12:11:47 [http-nio-80-exec-7] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/0f5b4686-c3a1-466d-8cc3-a30ad4b8950e;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:11:48 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/0f5b4686-c3a1-466d-8cc3-a30ad4b8950e/rloopr.bedgraph GET: 924 ms, 0 Kb
+2021-10-09 12:16:38 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 798 ms, 3 Kb
+2021-10-09 12:16:45 [http-nio-80-exec-10] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.sequence.Sequence[20d6c312-5382-412c-835d-387577b2e483].
+2021-10-09 12:16:45 [ForkJoinPool-1-worker-22] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.sequence.Sequence[20d6c312-5382-412c-835d-387577b2e483] for cz.mendelu.dnaAnalyser.sequence.Sequence[20d6c312-5382-412c-835d-387577b2e483].
+2021-10-09 12:16:45 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/import/file POST: 78 ms, 0 Kb
+2021-10-09 12:16:46 [ForkJoinPool-1-worker-22] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.sequence.Sequence[20d6c312-5382-412c-835d-387577b2e483].
+2021-10-09 12:16:46 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/20d6c312-5382-412c-835d-387577b2e483 GET: 8 ms, 0 Kb
+2021-10-09 12:16:46 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 840 ms, 4 Kb
+2021-10-09 12:16:47 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 870 ms, 4 Kb
+2021-10-09 12:16:49 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=5&pageNumber=0 GET: 852 ms, 1 Kb
+2021-10-09 12:16:51 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=5&pageNumber=1 GET: 850 ms, 2 Kb
+2021-10-09 12:16:59 [http-nio-80-exec-2] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[3682a86b-a692-43f6-805a-6e258bb3ea1e].
+2021-10-09 12:16:59 [ForkJoinPool-1-worker-22] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[3682a86b-a692-43f6-805a-6e258bb3ea1e] for cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[3682a86b-a692-43f6-805a-6e258bb3ea1e].
+2021-10-09 12:16:59 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr POST: 100 ms, 0 Kb
+2021-10-09 12:16:59 [ForkJoinPool-1-worker-22] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/3682a86b-a692-43f6-805a-6e258bb3ea1e;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:16:59 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/3682a86b-a692-43f6-805a-6e258bb3ea1e/analysis GET: 10 ms, 0 Kb
+2021-10-09 12:17:01 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/3682a86b-a692-43f6-805a-6e258bb3ea1e/analysis GET: 5 ms, 0 Kb
+2021-10-09 12:17:01 [ForkJoinPool-1-worker-22] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[3682a86b-a692-43f6-805a-6e258bb3ea1e].
+2021-10-09 12:17:04 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/3682a86b-a692-43f6-805a-6e258bb3ea1e/analysis GET: 8 ms, 0 Kb
+2021-10-09 12:17:04 [http-nio-80-exec-10] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/3682a86b-a692-43f6-805a-6e258bb3ea1e;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:17:04 [http-nio-80-exec-3] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/3682a86b-a692-43f6-805a-6e258bb3ea1e;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:17:04 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/20d6c312-5382-412c-835d-387577b2e483 GET: 8 ms, 0 Kb
+2021-10-09 12:17:04 [http-nio-80-exec-6] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/3682a86b-a692-43f6-805a-6e258bb3ea1e;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:17:04 [http-nio-80-exec-7] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/3682a86b-a692-43f6-805a-6e258bb3ea1e;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:17:04 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/3682a86b-a692-43f6-805a-6e258bb3ea1e/total/length/m1 GET: 481 ms, 0 Kb
+2021-10-09 12:17:04 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/3682a86b-a692-43f6-805a-6e258bb3ea1e/total/length/m2 GET: 403 ms, 0 Kb
+2021-10-09 12:17:04 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/3682a86b-a692-43f6-805a-6e258bb3ea1e/average/length GET: 352 ms, 0 Kb
+2021-10-09 12:17:05 [http-nio-80-exec-5] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/3682a86b-a692-43f6-805a-6e258bb3ea1e;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:17:05 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/3682a86b-a692-43f6-805a-6e258bb3ea1e/rloops?sort=position&order=ASC&pageSize=10&pageNumber=0 GET: 910 ms, 6 Kb
+2021-10-09 12:17:05 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/20d6c312-5382-412c-835d-387577b2e483/nucleic-counts PATCH: 76 ms, 0 Kb
+2021-10-09 12:17:06 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/3682a86b-a692-43f6-805a-6e258bb3ea1e/heatmap?segments=80&from=0&to=22806 GET: 1283 ms, 2 Kb
+2021-10-09 12:17:09 [http-nio-80-exec-8] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/3682a86b-a692-43f6-805a-6e258bb3ea1e;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 12:17:09 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/3682a86b-a692-43f6-805a-6e258bb3ea1e/rloopr.bedgraph GET: 849 ms, 0 Kb
+2021-10-09 12:21:26 [http-nio-80-exec-6] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@19d029e3 (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+2021-10-09 12:21:26 [http-nio-80-exec-6] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@1b5514cc (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+2021-10-09 12:21:26 [http-nio-80-exec-6] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@a507ebc (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+2021-10-09 12:21:26 [http-nio-80-exec-6] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@1257c124 (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+2021-10-09 12:21:27 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 861 ms, 4 Kb
+2021-10-09 12:21:34 [http-nio-80-exec-7] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.sequence.Sequence[bf4180f0-5a7b-4a1c-a202-22379089a1db].
+2021-10-09 12:21:34 [ForkJoinPool-1-worker-93] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.sequence.Sequence[bf4180f0-5a7b-4a1c-a202-22379089a1db] for cz.mendelu.dnaAnalyser.sequence.Sequence[bf4180f0-5a7b-4a1c-a202-22379089a1db].
+2021-10-09 12:21:34 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/import/file POST: 103 ms, 0 Kb
+2021-10-09 12:21:34 [ForkJoinPool-1-worker-93] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.sequence.Sequence[bf4180f0-5a7b-4a1c-a202-22379089a1db].
+2021-10-09 12:21:34 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/bf4180f0-5a7b-4a1c-a202-22379089a1db GET: 11 ms, 0 Kb
+2021-10-09 12:21:34 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 795 ms, 4 Kb
+2021-10-09 12:21:35 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 856 ms, 4 Kb
+2021-10-09 12:21:37 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=5&pageNumber=0 GET: 757 ms, 1 Kb
+2021-10-09 12:23:22 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=5&pageNumber=1 GET: 759 ms, 2 Kb
+2021-10-09 12:23:26 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=5&pageNumber=2 GET: 886 ms, 1 Kb
+2021-10-09 13:10:20 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = / GET: 4 ms, 0 Kb
+2021-10-09 13:10:21 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /css/app.a901b079.css GET: 3 ms, 5 Kb
+2021-10-09 13:10:21 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /css/chunk-vendors.a4f0ebe8.css GET: 7 ms, 239 Kb
+2021-10-09 13:10:21 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /js/app.fba78ed0.js GET: 7 ms, 187 Kb
+2021-10-09 13:10:21 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /js/chunk-vendors.a813cfb2.js GET: 19 ms, 1178 Kb
+2021-10-09 13:10:21 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/management/info GET: 1 ms, 0 Kb
+2021-10-09 13:10:21 [http-nio-80-exec-9] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@1740d8b2 (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+2021-10-09 13:10:21 [http-nio-80-exec-9] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@41ab90c5 (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+2021-10-09 13:10:21 [http-nio-80-exec-9] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@1ea5d399 (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+2021-10-09 13:10:21 [http-nio-80-exec-9] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@f311db7 (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+2021-10-09 13:10:21 [http-nio-80-exec-9] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@153cb5de (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+2021-10-09 13:10:21 [http-nio-80-exec-9] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@80c2204 (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+2021-10-09 13:10:21 [http-nio-80-exec-9] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@38050187 (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+2021-10-09 13:10:21 [http-nio-80-exec-9] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@3f5e7f95 (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+2021-10-09 13:10:21 [http-nio-80-exec-9] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@4f3cbfe5 (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+2021-10-09 13:10:21 [http-nio-80-exec-9] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@2649a804 (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+2021-10-09 13:10:21 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /favicon.ico GET: 3 ms, 71 Kb
+2021-10-09 13:10:21 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/jwt POST: 139 ms, 0 Kb
+2021-10-09 13:10:21 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /fonts/fontawesome-webfont.af7ae505.woff2 GET: 4 ms, 75 Kb
+2021-10-09 13:43:00 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 821 ms, 4 Kb
+2021-10-09 13:43:31 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /robots.txt GET: 63 ms, error 404, 0 Kb
+2021-10-09 13:43:31 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = / GET: 3 ms, 0 Kb
+2021-10-09 13:43:34 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /css/chunk-vendors.a4f0ebe8.css GET: 7 ms, 239 Kb
+2021-10-09 13:55:02 [http-nio-80-exec-4] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.sequence.Sequence[0caa9298-105e-489f-a67e-11fe597340a3].
+2021-10-09 13:55:02 [ForkJoinPool-1-worker-67] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.sequence.Sequence[0caa9298-105e-489f-a67e-11fe597340a3] for cz.mendelu.dnaAnalyser.sequence.Sequence[0caa9298-105e-489f-a67e-11fe597340a3].
+2021-10-09 13:55:02 [ForkJoinPool-1-worker-67] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@2e42569b (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+2021-10-09 13:55:02 [ForkJoinPool-1-worker-67] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@24ba3deb (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+2021-10-09 13:55:02 [ForkJoinPool-1-worker-67] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@61b8a718 (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+2021-10-09 13:55:02 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/import/file POST: 140 ms, 0 Kb
+2021-10-09 13:55:03 [ForkJoinPool-1-worker-67] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.sequence.Sequence[0caa9298-105e-489f-a67e-11fe597340a3].
+2021-10-09 13:55:03 [http-nio-80-exec-10] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@713d7228 (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+2021-10-09 13:55:03 [http-nio-80-exec-10] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@1d7ffbf2 (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+2021-10-09 13:55:03 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/0caa9298-105e-489f-a67e-11fe597340a3 GET: 12 ms, 0 Kb
+2021-10-09 13:55:03 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 879 ms, 4 Kb
+2021-10-09 13:55:04 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 901 ms, 4 Kb
+2021-10-09 13:55:09 [http-nio-80-exec-7] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.sequence.Sequence[727133d6-01bc-4a42-a800-200f1a9bdf3e].
+2021-10-09 13:55:09 [ForkJoinPool-1-worker-67] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.sequence.Sequence[727133d6-01bc-4a42-a800-200f1a9bdf3e] for cz.mendelu.dnaAnalyser.sequence.Sequence[727133d6-01bc-4a42-a800-200f1a9bdf3e].
+2021-10-09 13:55:09 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/import/file POST: 163 ms, 0 Kb
+2021-10-09 13:55:09 [http-nio-80-exec-3] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@4e23b466 (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+2021-10-09 13:55:09 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/727133d6-01bc-4a42-a800-200f1a9bdf3e GET: 12 ms, 0 Kb
+2021-10-09 13:55:09 [ForkJoinPool-1-worker-67] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.sequence.Sequence[727133d6-01bc-4a42-a800-200f1a9bdf3e].
+2021-10-09 13:55:10 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 862 ms, 4 Kb
+2021-10-09 13:55:11 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/727133d6-01bc-4a42-a800-200f1a9bdf3e GET: 8 ms, 0 Kb
+2021-10-09 13:55:12 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 851 ms, 4 Kb
+2021-10-09 13:55:14 [http-nio-80-exec-1] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.sequence.Sequence[f5c31117-2653-422a-8aac-792616113782].
+2021-10-09 13:55:14 [ForkJoinPool-1-worker-67] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.sequence.Sequence[f5c31117-2653-422a-8aac-792616113782] for cz.mendelu.dnaAnalyser.sequence.Sequence[f5c31117-2653-422a-8aac-792616113782].
+2021-10-09 13:55:14 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/import/file POST: 239 ms, 0 Kb
+2021-10-09 13:55:14 [ForkJoinPool-1-worker-67] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.sequence.Sequence[f5c31117-2653-422a-8aac-792616113782].
+2021-10-09 13:55:14 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/f5c31117-2653-422a-8aac-792616113782 GET: 6 ms, 0 Kb
+2021-10-09 13:55:15 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 853 ms, 4 Kb
+2021-10-09 13:55:16 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 843 ms, 4 Kb
+2021-10-09 13:55:19 [http-nio-80-exec-6] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.sequence.Sequence[ff14711a-c9e0-4106-ad65-063aa5cc3b53].
+2021-10-09 13:55:19 [ForkJoinPool-1-worker-67] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.sequence.Sequence[ff14711a-c9e0-4106-ad65-063aa5cc3b53] for cz.mendelu.dnaAnalyser.sequence.Sequence[ff14711a-c9e0-4106-ad65-063aa5cc3b53].
+2021-10-09 13:55:19 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/import/file POST: 401 ms, 0 Kb
+2021-10-09 13:55:19 [ForkJoinPool-1-worker-67] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.sequence.Sequence[ff14711a-c9e0-4106-ad65-063aa5cc3b53].
+2021-10-09 13:55:19 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/ff14711a-c9e0-4106-ad65-063aa5cc3b53 GET: 9 ms, 0 Kb
+2021-10-09 13:55:20 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 876 ms, 4 Kb
+2021-10-09 13:55:20 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 861 ms, 4 Kb
+2021-10-09 13:55:23 [http-nio-80-exec-8] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.sequence.Sequence[c637ce1b-762f-4681-8cba-813fa6a05417].
+2021-10-09 13:55:23 [ForkJoinPool-1-worker-67] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.sequence.Sequence[c637ce1b-762f-4681-8cba-813fa6a05417] for cz.mendelu.dnaAnalyser.sequence.Sequence[c637ce1b-762f-4681-8cba-813fa6a05417].
+2021-10-09 13:55:23 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/import/file POST: 506 ms, 0 Kb
+2021-10-09 13:55:23 [ForkJoinPool-1-worker-67] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.sequence.Sequence[c637ce1b-762f-4681-8cba-813fa6a05417].
+2021-10-09 13:55:23 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/c637ce1b-762f-4681-8cba-813fa6a05417 GET: 8 ms, 0 Kb
+2021-10-09 13:55:24 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 884 ms, 4 Kb
+2021-10-09 13:55:24 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 868 ms, 4 Kb
+2021-10-09 13:55:29 [http-nio-80-exec-4] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.sequence.Sequence[a7c6841c-2ed3-4a25-a6b9-16778e63b7b1].
+2021-10-09 13:55:29 [ForkJoinPool-1-worker-67] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.sequence.Sequence[a7c6841c-2ed3-4a25-a6b9-16778e63b7b1] for cz.mendelu.dnaAnalyser.sequence.Sequence[a7c6841c-2ed3-4a25-a6b9-16778e63b7b1].
+2021-10-09 13:55:29 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/import/file POST: 1362 ms, 0 Kb
+2021-10-09 13:55:29 [ForkJoinPool-1-worker-67] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.sequence.Sequence[a7c6841c-2ed3-4a25-a6b9-16778e63b7b1].
+2021-10-09 13:55:29 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/a7c6841c-2ed3-4a25-a6b9-16778e63b7b1 GET: 6 ms, 0 Kb
+2021-10-09 13:55:30 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 876 ms, 4 Kb
+2021-10-09 13:55:30 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 864 ms, 4 Kb
+2021-10-09 13:55:35 [http-nio-80-exec-7] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.sequence.Sequence[11c67a60-57b0-4c5c-8d26-22154c53eabd].
+2021-10-09 13:55:35 [ForkJoinPool-1-worker-67] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.sequence.Sequence[11c67a60-57b0-4c5c-8d26-22154c53eabd] for cz.mendelu.dnaAnalyser.sequence.Sequence[11c67a60-57b0-4c5c-8d26-22154c53eabd].
+2021-10-09 13:55:35 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/import/file POST: 2189 ms, 0 Kb
+2021-10-09 13:55:35 [ForkJoinPool-1-worker-67] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.sequence.Sequence[11c67a60-57b0-4c5c-8d26-22154c53eabd].
+2021-10-09 13:55:35 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/11c67a60-57b0-4c5c-8d26-22154c53eabd GET: 7 ms, 0 Kb
+2021-10-09 13:55:36 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 878 ms, 4 Kb
+2021-10-09 13:55:36 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 856 ms, 4 Kb
+2021-10-09 13:55:46 [http-nio-80-exec-5] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.sequence.Sequence[52d8593a-24cf-4828-8f92-54c35789e639].
+2021-10-09 13:55:46 [ForkJoinPool-1-worker-67] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.sequence.Sequence[52d8593a-24cf-4828-8f92-54c35789e639] for cz.mendelu.dnaAnalyser.sequence.Sequence[52d8593a-24cf-4828-8f92-54c35789e639].
+2021-10-09 13:55:46 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/import/file POST: 4330 ms, 0 Kb
+2021-10-09 13:55:46 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/52d8593a-24cf-4828-8f92-54c35789e639 GET: 4 ms, 0 Kb
+2021-10-09 13:55:46 [ForkJoinPool-1-worker-67] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.sequence.Sequence[52d8593a-24cf-4828-8f92-54c35789e639].
+2021-10-09 13:55:47 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 849 ms, 5 Kb
+2021-10-09 13:55:48 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/52d8593a-24cf-4828-8f92-54c35789e639 GET: 8 ms, 0 Kb
+2021-10-09 13:55:49 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=10&pageNumber=0 GET: 850 ms, 5 Kb
+2021-10-09 13:55:55 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/management/logfile GET: 4 ms, 98 Kb
+2021-10-09 13:56:03 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=5&pageNumber=0 GET: 847 ms, 2 Kb
+2021-10-09 13:56:10 [http-nio-80-exec-8] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[03bde760-f715-45ed-84c1-95d96ab7d1f3].
+2021-10-09 13:56:10 [ForkJoinPool-1-worker-67] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[03bde760-f715-45ed-84c1-95d96ab7d1f3] for cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[03bde760-f715-45ed-84c1-95d96ab7d1f3].
+2021-10-09 13:56:10 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr POST: 82 ms, 0 Kb
+2021-10-09 13:56:10 [ForkJoinPool-1-worker-67] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/03bde760-f715-45ed-84c1-95d96ab7d1f3;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:10 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/03bde760-f715-45ed-84c1-95d96ab7d1f3/analysis GET: 5 ms, 0 Kb
+2021-10-09 13:56:12 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/03bde760-f715-45ed-84c1-95d96ab7d1f3/analysis GET: 10 ms, 0 Kb
+2021-10-09 13:56:13 [ForkJoinPool-1-worker-67] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[03bde760-f715-45ed-84c1-95d96ab7d1f3].
+2021-10-09 13:56:16 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/03bde760-f715-45ed-84c1-95d96ab7d1f3/analysis GET: 8 ms, 0 Kb
+2021-10-09 13:56:16 [http-nio-80-exec-4] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/03bde760-f715-45ed-84c1-95d96ab7d1f3;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:16 [http-nio-80-exec-10] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/03bde760-f715-45ed-84c1-95d96ab7d1f3;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:16 [http-nio-80-exec-9] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection org.postgresql.jdbc.PgConnection@42b80851 (This connection has been closed.). Possibly consider using a shorter maxLifetime value.
+2021-10-09 13:56:16 [http-nio-80-exec-6] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/03bde760-f715-45ed-84c1-95d96ab7d1f3;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:16 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/0caa9298-105e-489f-a67e-11fe597340a3 GET: 10 ms, 0 Kb
+2021-10-09 13:56:16 [http-nio-80-exec-3] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/03bde760-f715-45ed-84c1-95d96ab7d1f3;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:16 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/03bde760-f715-45ed-84c1-95d96ab7d1f3/total/length/m2 GET: 422 ms, 0 Kb
+2021-10-09 13:56:16 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/03bde760-f715-45ed-84c1-95d96ab7d1f3/average/length GET: 318 ms, 0 Kb
+2021-10-09 13:56:16 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/03bde760-f715-45ed-84c1-95d96ab7d1f3/rloops?sort=position&order=ASC&pageSize=10&pageNumber=0 GET: 500 ms, 0 Kb
+2021-10-09 13:56:16 [http-nio-80-exec-7] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/03bde760-f715-45ed-84c1-95d96ab7d1f3;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:16 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/0caa9298-105e-489f-a67e-11fe597340a3/nucleic-counts PATCH: 65 ms, 0 Kb
+2021-10-09 13:56:17 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/03bde760-f715-45ed-84c1-95d96ab7d1f3/total/length/m1 GET: 940 ms, 0 Kb
+2021-10-09 13:56:17 [http-nio-80-exec-2] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[8b1d934a-6a85-441b-aa05-bc9abcc58f08].
+2021-10-09 13:56:17 [ForkJoinPool-1-worker-62] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[8b1d934a-6a85-441b-aa05-bc9abcc58f08] for cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[8b1d934a-6a85-441b-aa05-bc9abcc58f08].
+2021-10-09 13:56:17 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr POST: 78 ms, 0 Kb
+2021-10-09 13:56:17 [ForkJoinPool-1-worker-62] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/8b1d934a-6a85-441b-aa05-bc9abcc58f08;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:17 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/8b1d934a-6a85-441b-aa05-bc9abcc58f08/analysis GET: 8 ms, 0 Kb
+2021-10-09 13:56:17 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/03bde760-f715-45ed-84c1-95d96ab7d1f3/heatmap?segments=80&from=0&to=100909 GET: 1179 ms, 2 Kb
+2021-10-09 13:56:19 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/8b1d934a-6a85-441b-aa05-bc9abcc58f08/analysis GET: 6 ms, 0 Kb
+2021-10-09 13:56:21 [ForkJoinPool-1-worker-62] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[8b1d934a-6a85-441b-aa05-bc9abcc58f08].
+2021-10-09 13:56:22 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/8b1d934a-6a85-441b-aa05-bc9abcc58f08/analysis GET: 6 ms, 0 Kb
+2021-10-09 13:56:22 [http-nio-80-exec-6] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/8b1d934a-6a85-441b-aa05-bc9abcc58f08;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:22 [http-nio-80-exec-3] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/8b1d934a-6a85-441b-aa05-bc9abcc58f08;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:22 [http-nio-80-exec-4] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/8b1d934a-6a85-441b-aa05-bc9abcc58f08;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:22 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/727133d6-01bc-4a42-a800-200f1a9bdf3e GET: 8 ms, 0 Kb
+2021-10-09 13:56:22 [http-nio-80-exec-10] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/8b1d934a-6a85-441b-aa05-bc9abcc58f08;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:23 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/8b1d934a-6a85-441b-aa05-bc9abcc58f08/rloops?sort=position&order=ASC&pageSize=10&pageNumber=0 GET: 432 ms, 1 Kb
+2021-10-09 13:56:23 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/8b1d934a-6a85-441b-aa05-bc9abcc58f08/average/length GET: 379 ms, 0 Kb
+2021-10-09 13:56:23 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/8b1d934a-6a85-441b-aa05-bc9abcc58f08/total/length/m2 GET: 428 ms, 0 Kb
+2021-10-09 13:56:23 [http-nio-80-exec-1] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/8b1d934a-6a85-441b-aa05-bc9abcc58f08;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:23 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/727133d6-01bc-4a42-a800-200f1a9bdf3e/nucleic-counts PATCH: 29 ms, 0 Kb
+2021-10-09 13:56:23 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/8b1d934a-6a85-441b-aa05-bc9abcc58f08/total/length/m1 GET: 878 ms, 0 Kb
+2021-10-09 13:56:24 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/8b1d934a-6a85-441b-aa05-bc9abcc58f08/heatmap?segments=80&from=0&to=302824 GET: 1213 ms, 2 Kb
+2021-10-09 13:56:25 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=5&pageNumber=1 GET: 846 ms, 2 Kb
+2021-10-09 13:56:28 [http-nio-80-exec-5] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[26a892a0-7d9f-441d-98eb-a84fdf65569d].
+2021-10-09 13:56:28 [ForkJoinPool-1-worker-33] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[26a892a0-7d9f-441d-98eb-a84fdf65569d] for cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[26a892a0-7d9f-441d-98eb-a84fdf65569d].
+2021-10-09 13:56:28 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr POST: 93 ms, 0 Kb
+2021-10-09 13:56:28 [ForkJoinPool-1-worker-33] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/26a892a0-7d9f-441d-98eb-a84fdf65569d;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:28 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/26a892a0-7d9f-441d-98eb-a84fdf65569d/analysis GET: 9 ms, 0 Kb
+2021-10-09 13:56:30 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/26a892a0-7d9f-441d-98eb-a84fdf65569d/analysis GET: 4 ms, 0 Kb
+2021-10-09 13:56:32 [ForkJoinPool-1-worker-33] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[26a892a0-7d9f-441d-98eb-a84fdf65569d].
+2021-10-09 13:56:33 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/26a892a0-7d9f-441d-98eb-a84fdf65569d/analysis GET: 9 ms, 0 Kb
+2021-10-09 13:56:33 [http-nio-80-exec-10] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/26a892a0-7d9f-441d-98eb-a84fdf65569d;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:33 [http-nio-80-exec-4] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/26a892a0-7d9f-441d-98eb-a84fdf65569d;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:33 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/f5c31117-2653-422a-8aac-792616113782 GET: 5 ms, 0 Kb
+2021-10-09 13:56:33 [http-nio-80-exec-3] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/26a892a0-7d9f-441d-98eb-a84fdf65569d;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:33 [http-nio-80-exec-1] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/26a892a0-7d9f-441d-98eb-a84fdf65569d;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:33 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/26a892a0-7d9f-441d-98eb-a84fdf65569d/average/length GET: 382 ms, 0 Kb
+2021-10-09 13:56:33 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/26a892a0-7d9f-441d-98eb-a84fdf65569d/rloops?sort=position&order=ASC&pageSize=10&pageNumber=0 GET: 433 ms, 2 Kb
+2021-10-09 13:56:33 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/26a892a0-7d9f-441d-98eb-a84fdf65569d/total/length/m2 GET: 420 ms, 0 Kb
+2021-10-09 13:56:33 [http-nio-80-exec-5] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/26a892a0-7d9f-441d-98eb-a84fdf65569d;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:33 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/f5c31117-2653-422a-8aac-792616113782/nucleic-counts PATCH: 77 ms, 0 Kb
+2021-10-09 13:56:34 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/26a892a0-7d9f-441d-98eb-a84fdf65569d/total/length/m1 GET: 865 ms, 0 Kb
+2021-10-09 13:56:34 [http-nio-80-exec-9] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[fedd2444-a0c1-48c7-a36c-78b5155cbfc9].
+2021-10-09 13:56:34 [ForkJoinPool-1-worker-33] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[fedd2444-a0c1-48c7-a36c-78b5155cbfc9] for cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[fedd2444-a0c1-48c7-a36c-78b5155cbfc9].
+2021-10-09 13:56:34 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr POST: 81 ms, 0 Kb
+2021-10-09 13:56:34 [ForkJoinPool-1-worker-33] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/fedd2444-a0c1-48c7-a36c-78b5155cbfc9;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:34 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/fedd2444-a0c1-48c7-a36c-78b5155cbfc9/analysis GET: 8 ms, 0 Kb
+2021-10-09 13:56:35 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/26a892a0-7d9f-441d-98eb-a84fdf65569d/heatmap?segments=80&from=0&to=504740 GET: 1246 ms, 2 Kb
+2021-10-09 13:56:36 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/fedd2444-a0c1-48c7-a36c-78b5155cbfc9/analysis GET: 5 ms, 0 Kb
+2021-10-09 13:56:39 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/fedd2444-a0c1-48c7-a36c-78b5155cbfc9/analysis GET: 6 ms, 0 Kb
+2021-10-09 13:56:43 [ForkJoinPool-1-worker-33] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[fedd2444-a0c1-48c7-a36c-78b5155cbfc9].
+2021-10-09 13:56:44 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/fedd2444-a0c1-48c7-a36c-78b5155cbfc9/analysis GET: 7 ms, 0 Kb
+2021-10-09 13:56:44 [http-nio-80-exec-10] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/fedd2444-a0c1-48c7-a36c-78b5155cbfc9;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:44 [http-nio-80-exec-7] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/fedd2444-a0c1-48c7-a36c-78b5155cbfc9;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:44 [http-nio-80-exec-3] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/fedd2444-a0c1-48c7-a36c-78b5155cbfc9;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:44 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/ff14711a-c9e0-4106-ad65-063aa5cc3b53 GET: 8 ms, 0 Kb
+2021-10-09 13:56:44 [http-nio-80-exec-9] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/fedd2444-a0c1-48c7-a36c-78b5155cbfc9;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:44 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/fedd2444-a0c1-48c7-a36c-78b5155cbfc9/rloops?sort=position&order=ASC&pageSize=10&pageNumber=0 GET: 428 ms, 3 Kb
+2021-10-09 13:56:44 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/fedd2444-a0c1-48c7-a36c-78b5155cbfc9/average/length GET: 381 ms, 0 Kb
+2021-10-09 13:56:44 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/fedd2444-a0c1-48c7-a36c-78b5155cbfc9/total/length/m1 GET: 424 ms, 0 Kb
+2021-10-09 13:56:44 [http-nio-80-exec-8] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/fedd2444-a0c1-48c7-a36c-78b5155cbfc9;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:44 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/ff14711a-c9e0-4106-ad65-063aa5cc3b53/nucleic-counts PATCH: 46 ms, 0 Kb
+2021-10-09 13:56:45 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/fedd2444-a0c1-48c7-a36c-78b5155cbfc9/total/length/m2 GET: 878 ms, 0 Kb
+2021-10-09 13:56:46 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/fedd2444-a0c1-48c7-a36c-78b5155cbfc9/heatmap?segments=80&from=0&to=757134 GET: 1217 ms, 2 Kb
+2021-10-09 13:56:47 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=5&pageNumber=0 GET: 819 ms, 2 Kb
+2021-10-09 13:56:49 [http-nio-80-exec-2] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[14bcf5fc-f9b7-47f2-9967-bb50981bf218].
+2021-10-09 13:56:49 [ForkJoinPool-1-worker-88] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[14bcf5fc-f9b7-47f2-9967-bb50981bf218] for cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[14bcf5fc-f9b7-47f2-9967-bb50981bf218].
+2021-10-09 13:56:49 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr POST: 72 ms, 0 Kb
+2021-10-09 13:56:49 [ForkJoinPool-1-worker-88] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/14bcf5fc-f9b7-47f2-9967-bb50981bf218;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:56:49 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/14bcf5fc-f9b7-47f2-9967-bb50981bf218/analysis GET: 8 ms, 0 Kb
+2021-10-09 13:56:51 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/14bcf5fc-f9b7-47f2-9967-bb50981bf218/analysis GET: 5 ms, 0 Kb
+2021-10-09 13:56:54 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/14bcf5fc-f9b7-47f2-9967-bb50981bf218/analysis GET: 6 ms, 0 Kb
+2021-10-09 13:56:59 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/14bcf5fc-f9b7-47f2-9967-bb50981bf218/analysis GET: 6 ms, 0 Kb
+2021-10-09 13:57:02 [ForkJoinPool-1-worker-88] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[14bcf5fc-f9b7-47f2-9967-bb50981bf218].
+2021-10-09 13:57:06 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/14bcf5fc-f9b7-47f2-9967-bb50981bf218/analysis GET: 9 ms, 0 Kb
+2021-10-09 13:57:06 [http-nio-80-exec-5] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/14bcf5fc-f9b7-47f2-9967-bb50981bf218;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:57:06 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/c637ce1b-762f-4681-8cba-813fa6a05417 GET: 5 ms, 0 Kb
+2021-10-09 13:57:06 [http-nio-80-exec-7] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/14bcf5fc-f9b7-47f2-9967-bb50981bf218;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:57:06 [http-nio-80-exec-8] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/14bcf5fc-f9b7-47f2-9967-bb50981bf218;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:57:06 [http-nio-80-exec-2] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/14bcf5fc-f9b7-47f2-9967-bb50981bf218;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:57:06 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/14bcf5fc-f9b7-47f2-9967-bb50981bf218/total/length/m2 GET: 477 ms, 0 Kb
+2021-10-09 13:57:06 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/14bcf5fc-f9b7-47f2-9967-bb50981bf218/rloops?sort=position&order=ASC&pageSize=10&pageNumber=0 GET: 483 ms, 3 Kb
+2021-10-09 13:57:06 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/14bcf5fc-f9b7-47f2-9967-bb50981bf218/average/length GET: 437 ms, 0 Kb
+2021-10-09 13:57:06 [http-nio-80-exec-4] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/14bcf5fc-f9b7-47f2-9967-bb50981bf218;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:57:07 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/c637ce1b-762f-4681-8cba-813fa6a05417/nucleic-counts PATCH: 90 ms, 0 Kb
+2021-10-09 13:57:07 [http-nio-80-exec-10] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[9d173c89-8f08-4ab8-8a25-985b842250f9].
+2021-10-09 13:57:07 [ForkJoinPool-1-worker-24] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[9d173c89-8f08-4ab8-8a25-985b842250f9] for cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[9d173c89-8f08-4ab8-8a25-985b842250f9].
+2021-10-09 13:57:07 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr POST: 37 ms, 0 Kb
+2021-10-09 13:57:07 [ForkJoinPool-1-worker-24] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/9d173c89-8f08-4ab8-8a25-985b842250f9;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:57:07 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/9d173c89-8f08-4ab8-8a25-985b842250f9/analysis GET: 3 ms, 0 Kb
+2021-10-09 13:57:07 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/14bcf5fc-f9b7-47f2-9967-bb50981bf218/total/length/m1 GET: 941 ms, 0 Kb
+2021-10-09 13:57:08 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/14bcf5fc-f9b7-47f2-9967-bb50981bf218/heatmap?segments=80&from=0&to=1033759 GET: 1215 ms, 2 Kb
+2021-10-09 13:57:09 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/9d173c89-8f08-4ab8-8a25-985b842250f9/analysis GET: 5 ms, 0 Kb
+2021-10-09 13:57:12 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/9d173c89-8f08-4ab8-8a25-985b842250f9/analysis GET: 3 ms, 0 Kb
+2021-10-09 13:57:16 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/9d173c89-8f08-4ab8-8a25-985b842250f9/analysis GET: 4 ms, 0 Kb
+2021-10-09 13:57:23 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/9d173c89-8f08-4ab8-8a25-985b842250f9/analysis GET: 4 ms, 0 Kb
+2021-10-09 13:57:33 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/9d173c89-8f08-4ab8-8a25-985b842250f9/analysis GET: 5 ms, 0 Kb
+2021-10-09 13:57:43 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/9d173c89-8f08-4ab8-8a25-985b842250f9/analysis GET: 4 ms, 0 Kb
+2021-10-09 13:57:53 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/9d173c89-8f08-4ab8-8a25-985b842250f9/analysis GET: 5 ms, 0 Kb
+2021-10-09 13:58:01 [ForkJoinPool-1-worker-24] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[9d173c89-8f08-4ab8-8a25-985b842250f9].
+2021-10-09 13:58:03 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/9d173c89-8f08-4ab8-8a25-985b842250f9/analysis GET: 8 ms, 0 Kb
+2021-10-09 13:58:04 [http-nio-80-exec-7] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/9d173c89-8f08-4ab8-8a25-985b842250f9;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:58:04 [http-nio-80-exec-4] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/9d173c89-8f08-4ab8-8a25-985b842250f9;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:58:04 [http-nio-80-exec-3] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/9d173c89-8f08-4ab8-8a25-985b842250f9;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:58:04 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/a7c6841c-2ed3-4a25-a6b9-16778e63b7b1 GET: 8 ms, 0 Kb
+2021-10-09 13:58:04 [http-nio-80-exec-8] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/9d173c89-8f08-4ab8-8a25-985b842250f9;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:58:04 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/9d173c89-8f08-4ab8-8a25-985b842250f9/rloops?sort=position&order=ASC&pageSize=10&pageNumber=0 GET: 475 ms, 3 Kb
+2021-10-09 13:58:04 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/9d173c89-8f08-4ab8-8a25-985b842250f9/average/length GET: 385 ms, 0 Kb
+2021-10-09 13:58:04 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/9d173c89-8f08-4ab8-8a25-985b842250f9/total/length/m2 GET: 472 ms, 0 Kb
+2021-10-09 13:58:04 [http-nio-80-exec-2] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/9d173c89-8f08-4ab8-8a25-985b842250f9;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:58:04 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/a7c6841c-2ed3-4a25-a6b9-16778e63b7b1/nucleic-counts PATCH: 101 ms, 0 Kb
+2021-10-09 13:58:05 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/9d173c89-8f08-4ab8-8a25-985b842250f9/total/length/m1 GET: 933 ms, 0 Kb
+2021-10-09 13:58:05 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/9d173c89-8f08-4ab8-8a25-985b842250f9/heatmap?segments=80&from=0&to=3101373 GET: 1194 ms, 3 Kb
+2021-10-09 13:58:26 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=5&pageNumber=1 GET: 848 ms, 2 Kb
+2021-10-09 13:58:28 [http-nio-80-exec-10] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[746a3546-0de5-4d30-9813-edddf19c18af].
+2021-10-09 13:58:28 [ForkJoinPool-1-worker-17] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[746a3546-0de5-4d30-9813-edddf19c18af] for cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[746a3546-0de5-4d30-9813-edddf19c18af].
+2021-10-09 13:58:28 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr POST: 83 ms, 0 Kb
+2021-10-09 13:58:28 [ForkJoinPool-1-worker-17] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/746a3546-0de5-4d30-9813-edddf19c18af;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 13:58:28 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/746a3546-0de5-4d30-9813-edddf19c18af/analysis GET: 9 ms, 0 Kb
+2021-10-09 13:58:30 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/746a3546-0de5-4d30-9813-edddf19c18af/analysis GET: 4 ms, 0 Kb
+2021-10-09 13:58:33 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/746a3546-0de5-4d30-9813-edddf19c18af/analysis GET: 3 ms, 0 Kb
+2021-10-09 13:58:38 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/746a3546-0de5-4d30-9813-edddf19c18af/analysis GET: 6 ms, 0 Kb
+2021-10-09 13:58:44 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/746a3546-0de5-4d30-9813-edddf19c18af/analysis GET: 4 ms, 0 Kb
+2021-10-09 13:58:55 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/746a3546-0de5-4d30-9813-edddf19c18af/analysis GET: 5 ms, 0 Kb
+2021-10-09 13:59:05 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/746a3546-0de5-4d30-9813-edddf19c18af/analysis GET: 6 ms, 0 Kb
+2021-10-09 13:59:15 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/746a3546-0de5-4d30-9813-edddf19c18af/analysis GET: 4 ms, 0 Kb
+2021-10-09 13:59:25 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/746a3546-0de5-4d30-9813-edddf19c18af/analysis GET: 6 ms, 0 Kb
+2021-10-09 13:59:35 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/746a3546-0de5-4d30-9813-edddf19c18af/analysis GET: 3 ms, 0 Kb
+2021-10-09 13:59:45 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/746a3546-0de5-4d30-9813-edddf19c18af/analysis GET: 4 ms, 0 Kb
+2021-10-09 13:59:55 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/746a3546-0de5-4d30-9813-edddf19c18af/analysis GET: 3 ms, 0 Kb
+2021-10-09 13:59:57 [ForkJoinPool-1-worker-17] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[746a3546-0de5-4d30-9813-edddf19c18af].
+2021-10-09 14:00:05 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/746a3546-0de5-4d30-9813-edddf19c18af/analysis GET: 9 ms, 0 Kb
+2021-10-09 14:00:05 [http-nio-80-exec-8] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/746a3546-0de5-4d30-9813-edddf19c18af;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 14:00:05 [http-nio-80-exec-3] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/746a3546-0de5-4d30-9813-edddf19c18af;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 14:00:05 [http-nio-80-exec-5] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/746a3546-0de5-4d30-9813-edddf19c18af;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 14:00:05 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/11c67a60-57b0-4c5c-8d26-22154c53eabd GET: 8 ms, 0 Kb
+2021-10-09 14:00:06 [http-nio-80-exec-2] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/746a3546-0de5-4d30-9813-edddf19c18af;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 14:00:06 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/746a3546-0de5-4d30-9813-edddf19c18af/rloops?sort=position&order=ASC&pageSize=10&pageNumber=0 GET: 514 ms, 3 Kb
+2021-10-09 14:00:06 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/746a3546-0de5-4d30-9813-edddf19c18af/total/length/m1 GET: 377 ms, 0 Kb
+2021-10-09 14:00:06 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/746a3546-0de5-4d30-9813-edddf19c18af/total/length/m2 GET: 351 ms, 0 Kb
+2021-10-09 14:00:06 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/11c67a60-57b0-4c5c-8d26-22154c53eabd/nucleic-counts PATCH: 177 ms, 0 Kb
+2021-10-09 14:00:06 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/746a3546-0de5-4d30-9813-edddf19c18af/average/length GET: 689 ms, 0 Kb
+2021-10-09 14:00:06 [http-nio-80-exec-10] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/746a3546-0de5-4d30-9813-edddf19c18af;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 14:00:07 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/746a3546-0de5-4d30-9813-edddf19c18af/heatmap?segments=80&from=0&to=5168988 GET: 869 ms, 3 Kb
+2021-10-09 14:01:35 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence?sort=name&order=ASC&pageSize=5&pageNumber=0 GET: 845 ms, 2 Kb
+2021-10-09 14:01:39 [http-nio-80-exec-3] INFO  c.m.dnaAnalyser.batch.BatchService - Create batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92].
+2021-10-09 14:01:39 [ForkJoinPool-1-worker-104] INFO  c.m.dnaAnalyser.batch.BatchService - Start batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92] for cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92].
+2021-10-09 14:01:39 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr POST: 91 ms, 0 Kb
+2021-10-09 14:01:39 [ForkJoinPool-1-worker-104] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 14:01:39 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/analysis GET: 8 ms, 0 Kb
+2021-10-09 14:01:41 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/analysis GET: 5 ms, 0 Kb
+2021-10-09 14:01:44 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/analysis GET: 3 ms, 0 Kb
+2021-10-09 14:01:49 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/analysis GET: 4 ms, 0 Kb
+2021-10-09 14:01:56 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/analysis GET: 4 ms, 0 Kb
+2021-10-09 14:02:06 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/analysis GET: 5 ms, 0 Kb
+2021-10-09 14:02:16 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/analysis GET: 3 ms, 0 Kb
+2021-10-09 14:02:26 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/analysis GET: 5 ms, 0 Kb
+2021-10-09 14:02:30 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = / GET: 2 ms, 0 Kb
+2021-10-09 14:02:30 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /css/app.a901b079.css GET: 2 ms, 5 Kb
+2021-10-09 14:02:30 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /css/chunk-vendors.a4f0ebe8.css GET: 3 ms, 239 Kb
+2021-10-09 14:02:30 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /js/app.fba78ed0.js GET: 1 ms, 187 Kb
+2021-10-09 14:02:30 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /js/chunk-vendors.a813cfb2.js GET: 12 ms, 1178 Kb
+2021-10-09 14:02:30 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/management/info GET: 1 ms, 0 Kb
+2021-10-09 14:02:30 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /favicon.ico GET: 2 ms, 71 Kb
+2021-10-09 14:02:30 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/jwt POST: 98 ms, 0 Kb
+2021-10-09 14:02:31 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /fonts/fontawesome-webfont.af7ae505.woff2 GET: 2 ms, 75 Kb
+2021-10-09 14:02:36 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/analysis GET: 4 ms, 0 Kb
+2021-10-09 14:02:46 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/analysis GET: 4 ms, 0 Kb
+2021-10-09 14:02:56 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/analysis GET: 4 ms, 0 Kb
+2021-10-09 14:03:06 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/analysis GET: 4 ms, 0 Kb
+2021-10-09 14:03:16 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/analysis GET: 4 ms, 0 Kb
+2021-10-09 14:03:26 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/analysis GET: 21 ms, 0 Kb
+2021-10-09 14:03:37 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/analysis GET: 5 ms, 0 Kb
+2021-10-09 14:03:47 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/analysis GET: 5 ms, 0 Kb
+2021-10-09 14:03:57 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/analysis GET: 4 ms, 0 Kb
+2021-10-09 14:04:07 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/analysis GET: 4 ms, 0 Kb
+2021-10-09 14:04:17 [http-nio-80-exec-7] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/analysis GET: 3 ms, 0 Kb
+2021-10-09 14:04:27 [http-nio-80-exec-8] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/analysis GET: 5 ms, 0 Kb
+2021-10-09 14:04:30 [ForkJoinPool-1-worker-104] INFO  c.m.dnaAnalyser.batch.BatchService - Finish batch cz.mendelu.dnaAnalyser.analyse.rloopr.Rloop[48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92].
+2021-10-09 14:04:37 [http-nio-80-exec-3] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/analysis GET: 8 ms, 0 Kb
+2021-10-09 14:04:37 [http-nio-80-exec-5] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 14:04:37 [http-nio-80-exec-1] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 14:04:37 [http-nio-80-exec-2] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 14:04:37 [http-nio-80-exec-10] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/52d8593a-24cf-4828-8f92-54c35789e639 GET: 9 ms, 0 Kb
+2021-10-09 14:04:37 [http-nio-80-exec-6] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 14:04:38 [http-nio-80-exec-5] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/rloops?sort=position&order=ASC&pageSize=10&pageNumber=0 GET: 448 ms, 3 Kb
+2021-10-09 14:04:38 [http-nio-80-exec-6] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/average/length GET: 303 ms, 0 Kb
+2021-10-09 14:04:38 [http-nio-80-exec-2] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/total/length/m2 GET: 360 ms, 0 Kb
+2021-10-09 14:04:38 [http-nio-80-exec-4] INFO  c.m.d.u.a.s.AbstractDataSessionService - Create datasource jdbc:h2:file:./db/analyse/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92;DB_CLOSE_ON_EXIT=FALSE
+2021-10-09 14:04:38 [http-nio-80-exec-9] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/sequence/52d8593a-24cf-4828-8f92-54c35789e639/nucleic-counts PATCH: 296 ms, 0 Kb
+2021-10-09 14:04:38 [http-nio-80-exec-1] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/total/length/m1 GET: 836 ms, 0 Kb
+2021-10-09 14:04:39 [http-nio-80-exec-4] INFO  javamelody - remoteAddr = 10.0.0.12, forwardedFor = 10.255.0.2, request = /api/analyse/rloopr/48a6f8ef-3e4c-4b84-9ba2-eb35febeeb92/heatmap?segments=80&from=0&to=10338024 GET: 1279 ms, 3 Kb
